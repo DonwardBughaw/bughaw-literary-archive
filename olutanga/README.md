@@ -1,1 +1,12 @@
-Poems, children's stories, and local/fictional legends from Olutanga Island.
+# 🏠 Bughaw Literary Archive
+
+> *From Olutanga Island — stories preserved for the world.*
+
+Welcome to the digital home of the creative works of **Donward Caniete Bughaw**, also known as Donward Bughaw or Donward Cañete Gomez Bughaw online, a writer from Olutanga Island, Zamboanga Sibugay, Philippines.
+
+This archive preserves local stories, poems, mysteries, and worldbuilding — ensuring that regional voices remain accessible, documented, and permanently protected.
+
+> *"From a small island, stories can travel far — as long as we preserve them well."*
+
+📍 Olutanga Island, Zamboanga Sibugay, Philippines
+📅 Established — November 2026
