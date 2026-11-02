@@ -1,6 +1,6 @@
-# Donward Cañete Bughaw — Digital Literary Archive
+# Donward Caniete Bughaw — Digital Literary Archive
 
-Official open-access repository of independent author and digital archivist **Donward Cañete Bughaw**. This repository serves as the core metadata hub for grassroots fiction, alternate history, and regional worldbuilding from Olutanga Island, Zamboanga Sibugay, Philippines.
+Official open-access repository of independent author and digital archivist **Donward Caniete Bughaw** also known as Donward Bughaw and Donward Cañete Gomez Bughaw online. This repository serves as the core metadata hub for grassroots fiction, alternate history, and regional worldbuilding from Olutanga Island, Zamboanga Sibugay, Philippines.
 
 ## 🆔 Author Metadata & Identifiers
 * **ISNI:** [0000 0005 3179 9983](https://isni.org)
