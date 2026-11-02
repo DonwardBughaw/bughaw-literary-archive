@@ -5,7 +5,7 @@ Official open-access repository of independent author and digital archivist **Do
 ## 🆔 Author Metadata & Identifiers
 * **ISNI:** [0000 0005 3179 9983](https://isni.org)
 * **ORCID iD:** [0009-0008-0451-8516](https://orcid.org)
-* **IPOPHL Copyright Registration:** Registered with the Intellectual Property Office of the Philippines / National Library of the Philippines.
+* **IPOPHL Copyright Registration:** Registered with the Intellectual Property Office of the Philippines.
 
 ---
 
