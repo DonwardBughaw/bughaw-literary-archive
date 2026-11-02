@@ -1,4 +1,9 @@
-site: Donward Bughaw
+site:
+  name: Donward Bughaw
+  description: Official Literary Archive
+
+root: ./
+
 structure:
     - groups:
             - pages:
