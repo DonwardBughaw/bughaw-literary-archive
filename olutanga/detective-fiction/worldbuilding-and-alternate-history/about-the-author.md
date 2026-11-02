@@ -1,5 +1,5 @@
 # About the Author
-Donward Caniete Bughaw is an independent author and self-archiving writer from Olutanga Island, Zamboanga Sibugay, Philippines.
+Donward Caniete Bughaw, also known as Donward Bughaw or Donward Cañete Gomez Bughaw online, is an independent author and self-archiving writer from Olutanga Island, Zamboanga Sibugay, Philippines.
 
 🆔 Identifiers:
 - ISNI: 0000 0005 3179 9983
