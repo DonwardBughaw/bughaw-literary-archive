@@ -1,0 +1,5 @@
+site: Donward Bughaw
+structure:
+    - groups:
+            - pages:
+                    - path: README.md
