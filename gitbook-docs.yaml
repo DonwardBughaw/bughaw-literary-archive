@@ -9,7 +9,6 @@ site:
     from Olutanga Island, Zamboanga Sibugay, Philippines.
 
   structure:
-    # 🏝️ Olutanga Grassroots Fiction & Poetry — DEFAULT LANDING SPACE
     - type: space
       key: olutanga-collection
       title: Olutanga — Fiction & Poetry
@@ -17,31 +16,28 @@ site:
       default: true
       description: Grassroots works from Olutanga Island — poems, children's stories, and local legends.
       content:
-        directory: ./olutanga/
+        directory: ./olutanga
 
-    # 🔍 Detective Fiction
     - type: space
       key: detective-collection
       title: Detective Fiction
       path: detective-fiction
       description: Cases featuring detective character Husto Permi.
       content:
-        directory: ./detective-fiction/
+        directory: ./detective-fiction
 
-    # 🌌 Worldbuilding & Alternate History
     - type: space
       key: worldbuilding-collection
       title: Worldbuilding & Alternate History
       path: worldbuilding
       description: Rehiyon 0, Bughaw University, and the detective universe.
       content:
-        directory: ./worldbuilding/
+        directory: ./worldbuilding
 
-    # 🆔 About / Author Metadata
     - type: space
       key: about-author
       title: About & Author Metadata
       path: about
       description: Author identifiers, copyright, and archive information.
       content:
-        directory: ./about/
+        directory: ./about
