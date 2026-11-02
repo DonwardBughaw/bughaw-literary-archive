@@ -1,5 +1,3 @@
-Detective Fiction 
-
 # 🕵️ Husto Permi — Detective Series
 
 Mystery stories featuring Olutanga island's greatest detective, Husto Permi.
