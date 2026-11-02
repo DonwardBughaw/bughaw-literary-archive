@@ -14,7 +14,7 @@ Official open-access repository of independent author and digital archivist **Do
 ### 🏝️ Olutanga Grassroots Fiction & Poetry
 * **Isla Olutanga (Poem)** 
   * 🌐 **Persistent Identifier:** [DataCite DOI Link](https://doi.org/10.5281/zenodo.20814360)
-* **Ang Mangunguling at ang Isang Dram ng Ginto (Childre's story)** 
+* **Ang Mangunguling at Ang Isang Dram ng Ginto (Childre's story)** 
   * 🌐 **Persistent Identifier:** [DataCite DOI Link](https://doi.org/10.5281/zenodo.21288091)
 * **Ang Sugilanon sa Laparay (Fictional legend)** 
   * 🌐 **Persistent Identifier:** [DataCite DOI Link](https://doi.org/10.5281/zenodo.23085470)
