@@ -5,7 +5,7 @@ Expanded universe and alternate history lore.
 
 # 🌍 Ang Rehiyon 0 — Rehiyon ng Detektib
 
-An alternate history region set in the islands of Zamboanga Sibugay — a place where mysteries are always close to home.
+An alternate history region set in the eastern part of the Philippines — a place where mysteries are always close to home.
 
 ---
 
