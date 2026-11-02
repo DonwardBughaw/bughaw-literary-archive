@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Olutanga — Grassroots Fiction & Poetry](README.md)
+* [README](README.md)
+* [Olutanga — Grassroots Fiction & Poetry](olutanga-grassroots-fiction-and-poetry.md)
 * [Detective Fiction](detective-fiction/README.md)
-  * [Worldbuilding & Alternate History](detective-fiction/worldbuilding/README.md)
-    * [About the Author](detective-fiction/worldbuilding/about.md)
+  * [Worldbuilding & Alternate History](detective-fiction/worldbuilding-and-alternate-history/README.md)
+    * [About the Author](detective-fiction/worldbuilding-and-alternate-history/about-the-author.md)
