@@ -26,6 +26,11 @@ An alternate history region set in the eastern part of the Philippines — a pla
 
 # 🏫 Ang Bughaw University
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/dca0b918eadf004b7e1b2b257512fbacb348cc07/olutanga/detective-fiction/worldbuilding-and-alternate-history/bughaw-university.png" alt="Bughaw University" style="max-width: 480px;">
+  <br><em>Bughaw University — Bughaw Literary Archive</em>
+</p>
+
 The largest fictional institution in the Rehiyon 0 universe — a place where knowledge, mystery, and history meet.
 
 ---
