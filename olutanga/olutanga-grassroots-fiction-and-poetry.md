@@ -6,7 +6,6 @@
   <img src="isla-olutanga-cover.jpg" 
        alt="Isla Olutanga — A Poem by Donward Bughaw" width="600">
 </p>
-<p align="center"><em>A poem by Donward Bughaw</em></p>
 
 ### 📖 Isla Olutanga (Poem)
 A lyrical tribute to the beauty, shores, and people of Olutanga Island.
