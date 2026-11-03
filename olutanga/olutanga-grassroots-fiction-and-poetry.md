@@ -22,10 +22,8 @@ A heartwarming tale about kindness, community, and unexpected blessings.
 
 ### 📖 Ang Sugilanon sa Laparay (Local Legend)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/15abef180ed287822d29a7de404bc772af918835/olutanga/ang-sugilanon-sa-laparay-by-donward-bughaw.png" alt="Ang Sugilanon sa Laparay" style="max-width: 100%;">
-  <br>
-  <em>Ang Sugilanon sa Laparay</em> — Donward Bughaw
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/15abef180ed287822d29a7de404bc772af918835/olutanga/ang-sugilanon-sa-laparay-by-donward-bughaw.png" alt="Ang Sugilanon sa Laparay" style="max-width: 100%; height: auto;">
 </div>
 
 An original work of fiction inspired by the island's rich storytelling traditions.
