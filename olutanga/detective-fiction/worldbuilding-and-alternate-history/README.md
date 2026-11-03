@@ -47,6 +47,26 @@ The largest fictional institution in the Rehiyon 0 universe — a place where kn
 
 ---
 
+## 👤 Notable Characters at Bughaw University
+
+> *"Every mind carries a story. Every story shapes the university."*
+
+### 🔍 Lead Detectives — Rehiyon 0 Detective Agency
+- **Husto Permi** — Detective
+- **Susi Dayon** — Detective
+- **Puro Mali** — Detective
+
+### 🚔 Campus & District Police Force
+- **Chief Inspector Importante Maayo** — University/Campus and District Police Chief
+- **Senior Inspector Halos Seryoso**
+- **Inspector Pulos Binuang**
+
+### 🎓 Faculty & Administration
+- **Mitch Amaste** — Mathematician
+- **Loñiel Quijano** — First President of Bughaw University
+
+---
+
 ### 📌 Permanent Archive
 🌐 **Read & cite:** [https://doi.org/10.5281/zenodo.21261665]
 🆔 Created by Donward Caniete Bughaw
