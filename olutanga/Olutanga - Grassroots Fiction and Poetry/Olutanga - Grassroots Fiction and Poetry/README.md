@@ -8,7 +8,7 @@ Poems, children's stories, and local legends from Olutanga Island.
 
 <p align="center">
   <img src="isla-olutanga-cover.jpg" 
-       alt="Isla Olutanga — A Poem by Donward Bughaw" width="600">
+       alt="Isla Olutanga — A Tagalog Poem by Donward Bughaw" width="600">
 </p>
 <p align="center"><em>A poem by Donward Bughaw</em></p>
 
