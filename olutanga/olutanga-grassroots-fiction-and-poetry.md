@@ -8,7 +8,56 @@
 
 A lyrical tribute to the beauty, shores, people, and municipalities—Mabuhay, Talusan, and Olutanga—of Olutanga Island.
 
-> _Where the waves whisper stories to the sand._ 🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.20814360](https://doi.org/10.5281/zenodo.20814360)
+> _Where the waves whisper stories to the sand._
+***
+
+<div align="center">
+
+Isla Olutanga ang kinalak'han ko,<br>
+Hindi man matunog, paka-alamin mo;<br>
+Munisipalidad dito'y bumubuo:<br>
+Mabuhay, Talusan, Olutanga'ng dulo.
+
+<br>
+
+Dito nangabuo samu't saring k'wento;<br>
+Dito nangamatay sina Impoy't Pupo;<br>
+Nagpagulong-gulong mga buto't bungo<br>
+Sa lupang nilinang— nadilig din'g dugo!
+
+<br>
+
+Pagsasaka rito't pangingisda roon—<br>
+Ito'y pangunahing gawain sa nayon;<br>
+Pinagkakitaa'y lupa't dagat. Hayun!<br>
+Ibang bata'y sanay kahit pa maghapon.
+
+<br>
+
+Sagana sa yaman mapa-lupa't dagat.<br>
+May palay, tabako, mais, mani, copra,<br>
+Saging at kamote; alimango, balat,<br>
+Tulingan, taklobo, bangus at talaba.
+
+<br>
+
+Nagagandahang mga dalampasigan<br>
+Sa isla ring ito mo masusumpungan;<br>
+Usapang white sand beach, nar'yang Taguisian,<br>
+Dao, Moalboal, Lil Siargao't Kabugan.
+
+<br>
+
+May kweba't hotspring ding madalas dayuhin;<br>
+Sangtwaryo ng ahas— na-feature na sa film!<br>
+Ito'y iilan lang sa mga tanawin<br>
+Makikita rito, kung 'yong nanaisin!
+
+</div>
+
+***
+
+🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.20814360](https://doi.org/10.5281/zenodo.20814360)
 
 ***
 
