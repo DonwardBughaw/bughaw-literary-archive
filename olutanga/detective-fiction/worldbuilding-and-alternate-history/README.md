@@ -51,7 +51,7 @@ The largest fictional institution in the Rehiyon 0 universe — a place where kn
 
 > *"Every mind carries a story. Every story shapes the university."*
 
-### 🔍 Lead Detectives — Rehiyon 0 Detective Agency
+### 🔍 Lead Detectives
 - **Husto Permi** — Detective
 - **Susi Dayon** — Detective
 - **Puro Mali** — Detective
