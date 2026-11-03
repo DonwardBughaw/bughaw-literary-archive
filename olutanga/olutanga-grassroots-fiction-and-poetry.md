@@ -8,7 +8,7 @@
 </p>
 
 ### 📖 Isla Olutanga (Poem)
-A lyrical tribute to the beauty, shores, and people of Olutanga Island.
+A lyrical tribute to the beauty, shores, people, and municipalities—Mabuhay, Talusan, and Olutanga—of Olutanga Island.
 > *Where the waves whisper stories to the sand.*
 🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.20814360](https://doi.org/10.5281/zenodo.20814360)
 
