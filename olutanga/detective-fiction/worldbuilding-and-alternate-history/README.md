@@ -5,6 +5,11 @@ Expanded universe and alternate history lore.
 
 # 🌍 Ang Rehiyon 0 — Rehiyon ng Detektib
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/7edf037d38edb5de87d797fa0fed439de585d4c3/olutanga/detective-fiction/worldbuilding-and-alternate-history/region-0-detective-region.png" alt="Region 0 — Detective Region" style="max-width: 600px;">
+  <br><em>Region 0 — Detective Region · Bughaw Literary Archive</em>
+</p>
+
 An alternate history region set in the eastern part of the Philippines — a place where mysteries are always close to home.
 
 ---
