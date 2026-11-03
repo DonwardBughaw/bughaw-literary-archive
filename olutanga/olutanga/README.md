@@ -6,6 +6,14 @@ Poems, children's stories, and local legends from Olutanga Island.
 
 ## 📚 Works in this Collection:
 
+<div align="center">
+
+![Isla Olutanga — A Poem by Donward Bughaw](./isla-olutanga-cover.jpg)
+
+*A poem by Donward Bughaw*
+
+</div>
+
 ### 📖 Isla Olutanga (Poem)
 A lyrical tribute to the beauty, shores, and people of Olutanga Island.
 > *Where the waves whisper stories to the sand.*
