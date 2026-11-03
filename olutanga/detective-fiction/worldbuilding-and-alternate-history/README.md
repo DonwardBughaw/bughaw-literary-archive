@@ -19,6 +19,25 @@ An alternate history region set in the eastern part of the Philippines — a pla
 
 > *"Every island holds a secret. Every secret belongs to someone."*
 
+### 📍 Composition of Region 0
+
+The region comprises **54 major cities**.
+
+**🏔️ Northern District**
+Prendergast, Morton, Mehul, Peralta, Rush, Morse, Carisi, and Mason
+
+**🌅 Western District**
+Bughaw, Lawliet, Hewitt, Dalgliesh, and Merrivale
+
+**🏛️ Central District**
+Rockford, Grimoire, Marple, Dawson, Maigret, Strangeways, Holmes, Frost, Green, Appleby, Venn, Scarpetta, Edogawa, Barnaby, Mars, Jones, Gethryn, Devlin, Basil, and Sheringham
+
+**🌴 Southern District**
+Murillo, Byron, Banks, and Wallace
+
+**🌊 Eastern & Southeasternmost District**
+Wexford, Castellanos, Columbo, Satterthwaite, Fusco, Marlowe, Calder, Rossi, Bakshi, Hoffman, Lindsay, Wenjie, Murdoch, Poirot, Pembelton, Smith, and Campion
+
 ---
 
 ### 📌 Permanent Archive
