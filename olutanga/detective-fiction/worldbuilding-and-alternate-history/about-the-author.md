@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/main/author-photo.jpg" 
+       alt="Donward Bughaw" width="220">
+</p>
+
 # About the Author
 Donward Caniete Bughaw, also known as Donward Bughaw or Donward Cañete Gomez Bughaw online, is an independent author and self-archiving writer from Olutanga Island, Zamboanga Sibugay, Philippines.
 
