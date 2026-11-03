@@ -1,5 +1,10 @@
 # Donward Caniete Bughaw — Digital Literary Archive
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/main/author-photo.jpg" 
+       alt="Donward Bughaw" width="220">
+</p>
+
 Official open-access repository of independent author and self-archiving writer **Donward Caniete Bughaw**, also known as Donward Bughaw and Donward Cañete Gomez Bughaw online. This personal repository serves as a metadata hub for grassroots fiction, alternate history, and regional worldbuilding from Olutanga Island, Zamboanga Sibugay, Philippines.
 
 ## 🆔 Author Metadata & Identifiers
