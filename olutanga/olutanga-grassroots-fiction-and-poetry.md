@@ -58,6 +58,8 @@ Makikita rito, kung 'yong nanaisin!
 ***
 
 🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.20814360](https://doi.org/10.5281/zenodo.20814360)
+[https://doi.org/10.6084/m9.figshare.34004430](https://doi.org/10.6084/m9.figshare.34004430)
+[https://archive.org/details/isla-olutanga-poem-2021](https://archive.org/details/isla-olutanga-poem-2021)
 
 ***
 
