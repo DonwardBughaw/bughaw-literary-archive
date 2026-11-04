@@ -94,7 +94,9 @@ Bation nimo ang bugnaw nga hangin nga motindog sa imong balahibo.
 
 </div>
 
-> _Where sunrise gilds the bridge that binds the island home._ 🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.21216569](https://doi.org/10.5281/zenodo.21216569)
+***
+
+🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.21216569](https://doi.org/10.5281/zenodo.21216569)
 
 ***
 
