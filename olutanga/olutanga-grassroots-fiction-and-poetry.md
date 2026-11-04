@@ -64,6 +64,11 @@ Makikita rito, kung 'yong nanaisin!
 
 ***
 
+<figure style="text-align:center;">
+<img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/325467ac7ee3f484657afab30657f676d43cb6e0/olutanga/ang-tulay-sa-guicam.png" alt="Ang Tulay sa Guicam" style="max-width:100%;height:auto;">
+<figcaption>Ang Tulay sa Guicam – Donward Bughaw</figcaption>
+</figure>
+
 ### 📖 Ang Tulay sa Guicam (Poem)
 
 A lyrical tribute to Guicam Bridge, the living community vein linking Olutanga Island to the mainland, bearing fishermen, children and shared coastal memories.
