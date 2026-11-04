@@ -100,6 +100,11 @@ Bation nimo ang bugnaw nga hangin nga motindog sa imong balahibo.
 
 ***
 
+<figure style="text-align:center;">
+<img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/2d14a667a785f8f7b31bed9de31c3c734f1932f3/olutanga/ang-mangunguling-at-ang-isang-dram-ng-ginto.png" alt="Ang Mangunguling at Ang Isang Dram ng Ginto" style="max-width:100%;height:auto;">
+<figcaption>Ang Mangunguling at Ang Isang Dram ng Ginto</figcaption>
+</figure>
+
 ### 📖 Ang Mangunguling at Ang Isang Dram ng Ginto (Children's Story)
 
 A heartwarming tale about kindness, community, and unexpected blessings.
