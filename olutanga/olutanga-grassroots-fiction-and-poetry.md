@@ -71,20 +71,28 @@ A lyrical tribute to Guicam Bridge, the living community vein linking Olutanga I
 > _Where sunrise gilds the bridge that binds the island home._
 ***
 
-Sa tabok sa tubig, nipis ug putli,   
-Ang Guicam nagbukad, maisug ug lig-on kaayo.  
-Semento nga nag-antus sa kusog nga balod,   
-Nagbugkos sa mga baybayon nga gibahin sa sulog.  
+<div align="center">
 
-Ang paglubog sa adlaw nagpintal niini'g bulawan ug pula,   
-Ang mga mangingisda molabay dala ang pukot nga nagkaylap.  
-Ang mga bata nagdagan nga nagkatawa - tiil hubo ug gawasnon,   
-Samtang ang mga balod nagsabay sa dagan ilawom sa dagat.  
+Sa tabok sa tubig, nipis ug putli,<br>
+Ang Guicam nagbukad, maisug ug lig-on kaayo.<br>
+Semento nga nag-antus sa kusog nga balod,<br>
+Nagbugkos sa mga baybayon nga gibahin sa sulog.
 
-Labaw pa sa tulay, kini ang ugat sa Olutanga,   
-Nagkonektar sa isla ngadto sa ulohang yuta.  
-Kon mobarog ka didto kon kilom-kilom na,   
+<br>
+
+Ang paglubog sa adlaw nagpintal niini'g bulawan ug pula,<br>
+Ang mga mangingisda molabay dala ang pukot nga nagkaylap.<br>
+Ang mga bata nagdagan nga nagkatawa — tiil hubo ug gawasnon,<br>
+Samtang ang mga balod nagsabay sa dagan ilawom sa dagat.
+
+<br>
+
+Labaw pa sa tulay, kini ang ugat sa Olutanga,<br>
+Nagkonektar sa isla ngadto sa ulohang yuta.<br>
+Kon mobarog ka didto kon kilom-kilom na,<br>
 Bation nimo ang bugnaw nga hangin nga motindog sa imong balahibo.
+
+</div>
 
 > _Where sunrise gilds the bridge that binds the island home._ 🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.21216569](https://doi.org/10.5281/zenodo.21216569)
 
