@@ -125,6 +125,6 @@ A magical Philippine forest folktale for young readers about a humble charcoal�
   <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/15abef180ed287822d29a7de404bc772af918835/olutanga/ang-sugilanon-sa-laparay-by-donward-bughaw.png" alt="Ang Sugilanon sa Laparay" style="max-width: 100%; height: auto;">
 </div>
 
-An original work of fiction inspired by the island's rich storytelling traditions.
+An original Cebuano/Binisaya work of fiction written by Donward Bughaw, inspired by the island's rich storytelling traditions, about the origin of Barangay Laparay’s name.
 
 > _Stories weave their own truth._ 🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.23085470](https://doi.org/10.5281/zenodo.23085470)
