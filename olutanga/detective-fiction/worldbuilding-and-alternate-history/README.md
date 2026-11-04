@@ -8,7 +8,7 @@ Expanded universe and alternate history lore.
 <p align="center">
   <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/bf81f152cc74513c32a9543a237c6ad6136ee94d/olutanga/detective-fiction/worldbuilding-and-alternate-history/dinosaur-shaped-philippines.png" alt="Dinosaur‑shaped Philippines illustration">
 </p>
-  <br><em>Figure 1.2 — The shape of the Philippines and Region 0 resembling a "dinosaur." Concept by Donward Bughaw.</em>
+  <br><em>The shape of the Philippines and Region 0 resembling a "dinosaur." Concept by Donward Bughaw.</em>
 </p>
 
 An alternate history region set in the eastern part of the Philippines — a place where mysteries are always close to home.
