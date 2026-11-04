@@ -68,6 +68,7 @@ Makikita rito, kung 'yong nanaisin!
 A heartwarming tale about kindness, community, and unexpected blessings.
 
 > _The smallest acts can shine like gold._ 🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.21288091](https://doi.org/10.5281/zenodo.21288091)
+[https://doi.org/10.6084/m9.figshare.32953973](https://doi.org/10.6084/m9.figshare.32953973)
 
 ***
 
