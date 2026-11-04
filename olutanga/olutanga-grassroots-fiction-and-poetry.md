@@ -112,7 +112,7 @@ Bation nimo ang bugnaw nga hangin nga motindog sa imong balahibo.
 
 ### 📖 Ang Mangunguling at Ang Isang Dram ng Ginto (Children's Story)
 
-A heartwarming tale about kindness, community, and unexpected blessings.
+A magical Philippine forest folktale for young readers about a humble charcoal‑maker who receives a miraculous reward for his kindness, only to lose it when greed makes him disregard the old woman’s warning—teaching lessons of gratitude, obedience, and contentment.
 
 > _The smallest acts can shine like gold._ 🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.21288091](https://doi.org/10.5281/zenodo.21288091)
 [https://doi.org/10.6084/m9.figshare.32953973](https://doi.org/10.6084/m9.figshare.32953973)
