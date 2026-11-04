@@ -6,8 +6,7 @@ Expanded universe and alternate history lore.
 # 🌍 Ang Rehiyon 0 — Rehiyon ng Detektib
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/7edf037d38edb5de87d797fa0fed439de585d4c3/olutanga/detective-fiction/worldbuilding-and-alternate-history/region-0-detective-region.png" alt="Region 0 — Detective Region" style="max-width: 600px;">
-  <br><em>Figure 1.2 — The shape of the Philippines and Region 0 resembling a "dinosaur." Concept by Donward Bughaw.</em>
+  <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/bf81f152cc74513c32a9543a237c6ad6136ee94d/olutanga/detective-fiction/worldbuilding-and-alternate-history/dinosaur-shaped-philippines.png" alt="Dinosaur‑shaped Philippines illustration">
 </p>
 
 An alternate history region set in the eastern part of the Philippines — a place where mysteries are always close to home.
