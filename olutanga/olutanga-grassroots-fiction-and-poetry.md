@@ -9,6 +9,7 @@
 A lyrical tribute to the beauty, shores, people, and municipalities—Mabuhay, Talusan, and Olutanga—of Olutanga Island.
 
 > _Where the waves whisper stories to the sand._
+
 ***
 
 <div align="center">
@@ -60,6 +61,14 @@ Makikita rito, kung 'yong nanaisin!
 🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.20814360](https://doi.org/10.5281/zenodo.20814360)
 [https://doi.org/10.6084/m9.figshare.34004430](https://doi.org/10.6084/m9.figshare.34004430)
 [https://archive.org/details/isla-olutanga-poem-2021](https://archive.org/details/isla-olutanga-poem-2021)
+
+***
+
+### 📖 Ang Tulay sa Guicam (Poem)
+
+A lyrical tribute to Guicam Bridge, the living community vein linking Olutanga Island to the mainland, bearing fishermen, children and shared coastal memories.
+
+> _Where sunrise gilds the bridge that binds the island home._ 🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.21216569](https://doi.org/10.5281/zenodo.21216569)
 
 ***
 
