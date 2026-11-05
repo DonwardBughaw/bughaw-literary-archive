@@ -6,4 +6,4 @@
   * [Si Husto Permi ug Ang Kaso Sa Bolpen Nga Nagtae‑tae](detective-fiction/Si Husto Permi ug Ang Kaso Sa Bolpen Nga Nagtae‑tae.md)
   * [Si Husto Permi ug Ang Kaso sa Sulat sa Bungbong](detective-fiction/Si Husto Permi ug Ang Kaso sa Sulat sa Bungbong.md)
 * [Worldbuilding & Alternate History](worldbuilding-and-alternate-history/README.md)
-* [About the Author](about-the-author.md)
+* [About the Author](about-the-author/README.md)
