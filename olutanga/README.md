@@ -1,5 +1,4 @@
-# BUGHAW LITERARY ARCHIVE
-## INTRODUCTION
+# README
 
 > _From Olutanga Island — stories preserved for the world._
 
