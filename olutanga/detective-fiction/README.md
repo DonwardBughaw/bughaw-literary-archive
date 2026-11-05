@@ -5,14 +5,12 @@
   <br><em>Detective Husto — Bughaw Literary Archive</em>
 </p>
 
-Mystery stories featuring Olutanga island's greatest detective, Husto Permi.
-Solving small-town puzzles across Olutanga Island and Zamboanga Sibugay.
+Mystery stories featuring Olutanga island's greatest detective, Husto Permi, solving small-town puzzles across Olutanga Island and Zamboanga Sibugay.
 
 ---
 
 ## 📚 The Cases:
 
 - 📝 **Si Husto Permi ug Ang Kaso Sa Bolpen Nga Nagtae-tae**
-  🌐 [https://doi.org/10.5281/zenodo.21429101](https://doi.org/10.5281/zenodo.21429101)
 
 - 📝 **Si Husto Permi ug Ang Kaso sa Sulat sa Bungbong**
