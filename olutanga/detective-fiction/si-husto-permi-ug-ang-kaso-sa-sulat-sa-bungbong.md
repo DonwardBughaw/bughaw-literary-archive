@@ -67,4 +67,4 @@ Nakita ni Husto ang gibuhat sa iyang magulang, apan wala lang man niya kini pu
 ***
 
 🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.21459120](https://doi.org/10.5281/zenodo.21459120)
-[(https://doi.org/10.6084/m9.figshare.33027005)](https://doi.org/10.6084/m9.figshare.33027005))
+[(https://doi.org/10.6084/m9.figshare.33027005)](https://doi.org/10.6084/m9.figshare.33027005)
