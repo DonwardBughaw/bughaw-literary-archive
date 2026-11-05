@@ -1,4 +1,4 @@
-- 📝 **Si Husto Permi ug Ang Kaso sa Sulat sa Bungbong**
+# Si Husto Permi ug Ang Kaso sa Sulat sa Bungbong 🕵️
 
 Bag‑ohay pa lang mi nahuman og pangaon sa among paniudto. Nangadto mi sa akong ig‑agaw nga si Tara sa gripo aron pagpanghugas sa among mga kamot ug balonan. Nasugat‑an pa namo si Sakto nga mao pa lang pu'y paghuman ug panghugas sa iyang mga kamot didto. Sadya ming nag‑istoryahanay didto. Wala madugay, namalik mi sa purok diin namo gipangbilin ang among mga gamit.
 
