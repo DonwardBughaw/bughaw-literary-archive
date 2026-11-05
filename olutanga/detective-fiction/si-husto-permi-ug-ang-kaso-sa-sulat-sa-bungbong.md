@@ -64,4 +64,4 @@ Pagkadungog nako niini, nisamot ug pula ang akong nawong. Naestawa ug wala ko ma
 
 Nakita ni Husto ang gibuhat sa iyang magulang, apan wala lang man niya kini pugngi?
 
-  🌐 [https://doi.org/10.5281/zenodo.21459120](https://doi.org/10.5281/zenodo.21459120)
+🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.21459120](https://doi.org/10.5281/zenodo.21459120)
