@@ -1,6 +1,10 @@
 # Si Husto Permi ug Ang Kaso sa Sulat sa Bungbong 🕵️
 **Donward Bughaw**
 
+<div align="center">
+  <img src="https://github.com/DonwardBughaw/bughaw-literary-archive/raw/58c0e301e528e33222ffca6e1c45be7e7f799e05/olutanga/detective-fiction/si-husto-permi-ug-ang-kaso-sa-sulat-sa-bungbong.png" alt="Si Husto Permi ug Ang Kaso sa Sulat sa Bungbong" width="600">
+</div>
+
 *Susi’s POV*
 
 Bag‑ohay pa lang mi nahuman og pangaon sa among paniudto. Nangadto mi sa akong ig‑agaw nga si Tara sa gripo aron pagpanghugas sa among mga kamot ug balonan. Nasugat‑an pa namo si Sakto nga mao pa lang pu'y paghuman ug panghugas sa iyang mga kamot didto. Sadya ming nag‑istoryahanay didto. Wala madugay, namalik mi sa purok diin namo gipangbilin ang among mga gamit.
