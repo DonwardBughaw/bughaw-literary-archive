@@ -2,7 +2,7 @@
 
 * [README](README.md)
 * [Olutanga — Grassroots Fiction & Poetry](olutanga-grassroots-fiction-and-poetry.md)
-  * [Tula](olutanga/tula.md)
+  * [Tula](olutanga/grassroots-fiction-and-poetry.md/tula.md)
   * [Balak](olutanga/balak.md)
   * [Sugilanon](olutanga/sugilanon.md)
   * [Maikling Kwento](olutanga/maikling-kwento.md)
