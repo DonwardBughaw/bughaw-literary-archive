@@ -2,10 +2,10 @@
 
 > _From Olutanga Island—stories preserved for the world._
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/054a77cabf3fb4d7ff72d43ab53794007aa9142f/olutanga/welcome.png" alt="Welcome">
-  <p><em>Welcome to Bughaw Literary Archive</em></p>
-</div>
+<figure>
+<img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/054a77cabf3fb4d7ff72d43ab53794007aa9142f/olutanga/welcome.png" alt="Welcome">
+<figcaption><p><em>Welcome to Bughaw Literary Archive</em></p></figcaption>
+</figure>
 
 Welcome to the digital home of the creative works of **Donward Caniete Bughaw**, also known as Donward Bughaw or Donward Cañete Gomez Bughaw online, a writer from Olutanga Island, Zamboanga Sibugay, Philippines.
 
