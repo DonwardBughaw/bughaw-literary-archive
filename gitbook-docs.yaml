@@ -4,15 +4,15 @@ site:
   title: Bughaw Literary Archive
 
 spaces:
-  - id: about
-    title: About the Author
-    content: ./olutanga/about-the-author
-  - id: olutanga
-    title: Olutanga — Grassroots Fiction & Poetry
-    content: ./olutanga/olutanga-grassroots-fiction-and-poetry
-  - id: detective
-    title: Detective Fiction
-    content: ./olutanga/detective-fiction
-  - id: worldbuilding
-    title: Worldbuilding & Alternate History
-    content: ./olutanga/worldbuilding-and-alternate-history
+- id: about
+  title: About the Author
+  content: ./olutanga/about-the-author
+- id: olutanga
+  title: Olutanga — Grassroots Fiction & Poetry
+  content: ./olutanga/olutanga-grassroots-fiction-and-poetry
+- id: detective
+  title: Detective Fiction
+  content: ./olutanga/detective-fiction
+- id: worldbuilding
+  title: Worldbuilding & Alternate History
+  content: ./olutanga/worldbuilding-and-alternate-history
