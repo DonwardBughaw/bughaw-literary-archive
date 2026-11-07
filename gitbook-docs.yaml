@@ -4,16 +4,16 @@ site:
   title: Bughaw Literary Archive
   structure:
     - type: space
-      key: about
-      title: About the Author
-      path: about
+      key: about-bughaw-literary-archive
+      title: About Bughaw Literary Archive
+      path: archive-about
+      default: true
       content:
-        directory: ./olutanga/about-the-author
+        directory: ./olutanga/about-bughaw-literary-archive
     - type: space
       key: olutanga-collection
-      title: Olutanga — Grassroots Fiction & Poetry
+      title: Olutanga — Grassroots Fiction and Poetry
       path: olutanga
-      default: true
       content:
         directory: ./olutanga/olutanga-grassroots-fiction-and-poetry
     - type: space
@@ -28,3 +28,9 @@ site:
       path: worldbuilding
       content:
         directory: ./olutanga/worldbuilding-and-alternate-history
+    - type: space
+      key: about
+      title: About the Author
+      path: about
+      content:
+        directory: ./olutanga/about-the-author
