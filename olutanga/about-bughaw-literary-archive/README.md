@@ -3,9 +3,8 @@
 
 > _From Olutanga Island—stories preserved for the world._
 
-<div style="text-align: center;">
 <div align="center">
-  <img src="welcome.png" alt="Welcome">
+  <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/054a77cabf3fb4d7ff72d43ab53794007aa9142f/olutanga/welcome.png" alt="Welcome">
   <p><em>Welcome to Bughaw Literary Archive</em></p>
 </div>
 
