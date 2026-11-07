@@ -1,11 +1,10 @@
-# Si Husto Permi ug Ang Kaso sa Sulat sa Bungbong 🕵️
+# Si Husto Permi ug Ang Kaso sa Sulat sa Bungbong
+
 **Donward Bughaw**
 
-<div align="center">
-  <img src="https://github.com/DonwardBughaw/bughaw-literary-archive/raw/58c0e301e528e33222ffca6e1c45be7e7f799e05/olutanga/detective-fiction/si-husto-permi-ug-ang-kaso-sa-sulat-sa-bungbong.png" alt="Si Husto Permi ug Ang Kaso sa Sulat sa Bungbong" width="600">
-</div>
+<div align="center"><img src="https://github.com/DonwardBughaw/bughaw-literary-archive/raw/58c0e301e528e33222ffca6e1c45be7e7f799e05/olutanga/detective-fiction/si-husto-permi-ug-ang-kaso-sa-sulat-sa-bungbong.png" alt="Si Husto Permi ug Ang Kaso sa Sulat sa Bungbong" width="600"></div>
 
-*Susi’s POV*
+_Susi’s POV_
 
 Bag‑ohay pa lang mi nahuman og pangaon sa among paniudto. Nangadto mi sa akong ig‑agaw nga si Tara sa gripo aron pagpanghugas sa among mga kamot ug balonan. Nasugat‑an pa namo si Sakto nga mao pa lang pu'y paghuman ug panghugas sa iyang mga kamot didto. Sadya ming nag‑istoryahanay didto. Wala madugay, namalik mi sa purok diin namo gipangbilin ang among mga gamit.
 
@@ -17,7 +16,7 @@ Samtang paingon didto, nakita namo ang nagtapok nga mga estudyante sa usa ka bah
 
 Mitando ko ug nanagan mi paingon didto. Nanum‑ok mi sa tapok aron pagsusi sa nahitabo.
 
-Nisiga akong mga mata pagkakita nako kon unsa ang atoa didto. Sa bungbong dunay dakong heart nga gidrowing gamit ang chalk ug nakasulat sa sulod niadto ang mga pulong *"Susi love Husto"*.
+Nisiga akong mga mata pagkakita nako kon unsa ang atoa didto. Sa bungbong dunay dakong heart nga gidrowing gamit ang chalk ug nakasulat sa sulod niadto ang mga pulong _"Susi love Husto"_.
 
 Namula ang akong nawong pagkabasa nako ato. Niaksyon ug saka ang dugo sa akong ulo ug nakapangumo ko. Usa ra ka tawo ang nahibal‑an nakong makabuhat ani nako.
 
@@ -73,5 +72,4 @@ Nakita ni Husto ang gibuhat sa iyang magulang, apan wala lang man niya kini pu
 
 ***
 
-🌐 **Permanent Archive:** [https://doi.org/10.5281/zenodo.21459120](https://doi.org/10.5281/zenodo.21459120)
-[(https://doi.org/10.6084/m9.figshare.33027005)](https://doi.org/10.6084/m9.figshare.33027005)
+🌐 **Permanent archive:** [Zenodo record](https://doi.org/10.5281/zenodo.21459120) [Figshare record](https://doi.org/10.6084/m9.figshare.33027005)
