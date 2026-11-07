@@ -3,16 +3,10 @@ site:
   title: Donward Bughaw
   structure:
     - type: space
-      key: olutanga
-      title: Olutanga — Fiction & Poetry
-      path: olutanga
-      default: true
-      content:
-        directory: ./olutanga
-    - type: space
       key: detective-fiction
       title: Detective Fiction
       path: detective-fiction
+      default: true
       content:
         directory: ./detective-fiction
     - type: space
