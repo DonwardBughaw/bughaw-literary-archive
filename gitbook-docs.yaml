@@ -3,16 +3,28 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: Bughaw Literary Archive
 
-spaces:
-- id: about
-  title: About the Author
-  content: ./olutanga/about-the-author
-- id: olutanga
-  title: Olutanga — Grassroots Fiction & Poetry
-  content: ./olutanga/olutanga-grassroots-fiction-and-poetry
-- id: detective
-  title: Detective Fiction
-  content: ./olutanga/detective-fiction
-- id: worldbuilding
-  title: Worldbuilding & Alternate History
-  content: ./olutanga/worldbuilding-and-alternate-history
+structure:
+  - type: space
+    key: about
+    title: About the Author
+    path: about
+    content:
+      directory: ./olutanga/about-the-author
+  - type: space
+    key: olutanga-collection
+    title: Olutanga — Grassroots Fiction & Poetry
+    path: olutanga
+    content:
+      directory: ./olutanga/olutanga-grassroots-fiction-and-poetry
+  - type: space
+    key: detective-fiction
+    title: Detective Fiction
+    path: detective
+    content:
+      directory: ./olutanga/detective-fiction
+  - type: space
+    key: worldbuilding
+    title: Worldbuilding & Alternate History
+    path: worldbuilding
+    content:
+      directory: ./olutanga/worldbuilding-and-alternate-history
