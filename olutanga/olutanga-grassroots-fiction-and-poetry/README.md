@@ -61,7 +61,10 @@ Makikita rito, kung 'yong nanaisin!
 
 ***
 
-<figure><img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/325467ac7ee3f484657afab30657f676d43cb6e0/olutanga/ang-tulay-sa-guicam.png" alt="Ang Tulay sa Guicam"><figcaption><p>Ang Tulay sa Guicam – Donward Bughaw</p></figcaption></figure>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/95c96dbbecf75b9b263cefb80e013c2a7706fac2/olutanga/ang-tulay-sa-guicam.png" alt="Ang Tulay sa Guicam">
+  <p><em>Ang Tulay sa Guicam</em></p>
+</div>
 
 ### 📖 Ang Tulay sa Guicam (poem)
 
