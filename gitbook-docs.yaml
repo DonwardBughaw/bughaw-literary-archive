@@ -1,43 +1,34 @@
-# Bughaw Literary Archive — GitBook Configuration
-title: Bughaw Literary Archive
-description: Digital archive for the works and studies of Donward Bughaw, featuring grassroots literature, detective fiction, worldbuilding, and author resources.
-author: Donward Bughaw & Contributors
-language: en
-gitbook:
-  version: "3.2.3"
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
 
-# Structure — matches your 4 folders
-structure:
-  readme: README.md
-  summary: SUMMARY.md
+site:
+  title: Donward Bughaw
+  structure:
+    - type: space
+      key: space-olutanga
+      title: Olutanga — Grassroots Fiction & Poetry
+      path: olutanga-fiction
+      default: true
+      content:
+        directory: ./olutanga-fiction
 
-# Navigation — exactly your four sections
-sections:
-  - title: 🏝️ Olutanga Grassroots Fiction & Poetry
-    path: olutanga-grassroots-fiction-and-poetry/
-    description: Literary works rooted in the communities, voices, and stories of Olutanga and Zamboanga Sibugay.
+    - type: space
+      key: space-detective
+      title: Detective Fiction
+      path: detective-fiction
+      content:
+        directory: ./detective-fiction
 
-  - title: 🕵️ Detective Fiction
-    path: detective-fiction/
-    description: Mystery, crime, and detective narratives crafted within the Bughaw literary universe.
+    - type: space
+      key: space-worldbuilding
+      title: Worldbuilding & Alternate History
+      path: worldbuilding
+      content:
+        directory: ./worldbuilding
 
-  - title: 🌍 Worldbuilding & Alternate History
-    path: worldbuilding-and-alternate-history/
-    description: Conceptual worlds, lore, timelines, and alternate historical settings.
-
-  - title: ✍️ About the Author
-    path: about-the-author/
-    description: Biography, bibliography, background, and notes on Donward Bughaw.
-
-# Optional branding — keep your Bughaw theme look
-variables:
-  brandColor: "#1e40af"
-  accentColor: "#3b82f6"
-  textColor: "#111827"
-  bgColor: "#ffffff"
-
-plugins:
-  - search
-  - expandable-chapters
-  - codeblock-label
-  - back-to-top
+    - type: space
+      key: space-about
+      title: About the Author
+      path: about-author
+      content:
+        directory: ./about-author
