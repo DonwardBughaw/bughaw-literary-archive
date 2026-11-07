@@ -2,11 +2,10 @@
 
 ## 📚 Works in this collection:
 
-<center>
-  <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/20438fe7e460b9bc91957441b301dd8f07ecb8fc/olutanga/isla-olutanga-cover.jpg" alt="Isla Olutanga">
-  <br>
-  <em>Isla Olutanga</em>
-</center>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/20438fe7e460b9bc91957441b301dd8f07ecb8fc/olutanga/isla-olutanga-cover.jpg" alt="Isla Olutanga" style="max-width: 100%;">
+</p>
+<p align="center"><em>Isla Olutanga</em></p>
 
 ### 📖 Isla Olutanga (poem)
 
