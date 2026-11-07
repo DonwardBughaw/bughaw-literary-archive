@@ -111,7 +111,10 @@ A magical Philippine forest folktale for young readers about a humble charcoal�
 
 ### 📖 Ang Sugilanon sa Laparay (local legend)
 
-![Ang Sugilanon sa Laparay](https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/15abef180ed287822d29a7de404bc772af918835/olutanga/ang-sugilanon-sa-laparay-by-donward-bughaw.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/5e2df1f5840b5984a642d364c80938bc386801a9/olutanga/ang-sugilanon-sa-laparay-by-donward-bughaw.png" alt="Ang Sugilanon sa Laparay">
+  <p><em>Ang Sugilanon sa Laparay</em></p>
+</div>
 
 An original Cebuano/Binisaya work of fiction written by Donward Bughaw, inspired by the island's rich storytelling traditions, about the origin of Barangay Laparay’s name.
 
