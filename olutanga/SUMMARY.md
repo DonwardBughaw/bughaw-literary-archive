@@ -1,7 +1,7 @@
 # Table of contents
 
 * [README](README.md)
-* [Olutanga—Grassroots fiction and poetry](olutanga-grassroots-fiction-and-poetry)
+* [Olutanga—Grassroots Fiction and Poetry](olutanga-grassroots-fiction-and-poetry)
   * [Tula](olutanga-grassroots-fiction-and-poetry/tula/README.md)
   * [Balak](olutanga-grassroots-fiction-and-poetry/balak/README.md)
   * [Maikling Kwento](olutanga-grassroots-fiction-and-poetry/maikling-kwento/README.md)
