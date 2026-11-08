@@ -1,5 +1,3 @@
-# About the author
-
 <div align="center"><img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/main/author-photo.jpg" alt="Donward Bughaw" width="220"></div>
 
 ## About the author
