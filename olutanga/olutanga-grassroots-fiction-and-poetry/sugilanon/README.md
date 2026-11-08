@@ -1,9 +1,9 @@
-### 📖 Ang Sugilanon sa Laparay (local legend)
-
 <figure>
 <img src="https://raw.githubusercontent.com/DonwardBughaw/bughaw-literary-archive/5e2df1f5840b5984a642d364c80938bc386801a9/olutanga/ang-sugilanon-sa-laparay-by-donward-bughaw.png" alt="Ang Sugilanon sa Laparay">
 <figcaption><p><em>Ang Sugilanon sa Laparay</em></p></figcaption>
 </figure>
+
+### 📖 Ang Sugilanon sa Laparay (local legend)
 
 An original Cebuano/Binisaya work of fiction written by Donward Bughaw, inspired by the island's rich storytelling traditions, about the origin of Barangay Laparay’s name.
 
