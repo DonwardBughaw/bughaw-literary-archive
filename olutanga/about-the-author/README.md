@@ -7,7 +7,7 @@ Donward Caniete Bughaw, also known as Donward Bughaw or Donward Cañete Gomez Bu
 🆔 Identifiers:
 
 * ISNI: 0000 0005 3179 9983
-*     <a
+* ORCID:    <a
     id="cy-effective-orcid-url"
     class="underline"
      href="https://orcid.org/0009-0008-0451-8516"
