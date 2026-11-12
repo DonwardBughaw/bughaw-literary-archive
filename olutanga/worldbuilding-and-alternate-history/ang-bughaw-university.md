@@ -37,16 +37,24 @@ Ang Bughaw University ay may anim na library. Ang lima sa mga ito ay nakabase sa
 
 Noong 2011, isang estudyante ang nagtangkang magnakaw ng orihinal na kopya ng Sibylline Book sa museong ito. Pero dahil na rin sa higpit ng seguridad, hindi nagtagumpay ang kanyang plano. Hinuli siya ng mga guwardiya, isinuko sa pulisya at ikinulong. Bagama't tatlong libro lang talaga ang alam ng karamihan na orihinal na kasamang nasunog sa anim iba pang libro noong 83 BC sa kapitolyo ng Roma noong digmaang sibil ni Sulla, may isa pa talagang natitirang Sibylline Book na iniingatan at itinatago si Sibyl ng Cumae. Kung paanong nakarating ito sa Bughaw City at University, iyon ang hindi maipaliwanag ng marami.
 
-MGA SIKAT NA PERSONALIDAD
+### MGA SIKAT NA PERSONALIDAD
 
 Ilan sa mga sikat o tanyag na personalidad sa Bughaw University ay ang sumusunod:
+
 •Husto Permi. Detective.
+
 •Susi Dayon. Detective.
+
 •Puro Mali. Detective.
+
 •Chief Inspector Importante Maayo. University/Campus and District Police Chief
+
 •Senior Inspector Halos Seryoso
+
 •Inspector Pulos Binuang
+
 •Mitch Amaste, mathematician.
+
 •Loñiel Quijano, unang Presidente ng Bughaw University.
 
 ***
