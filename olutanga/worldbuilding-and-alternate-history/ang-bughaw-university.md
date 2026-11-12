@@ -6,63 +6,47 @@ The largest fictional institution in the Rehiyon 0 universe—a self‑sustainin
 
 ***
 
-### 📖 About the University
 
-**Bughaw University** is a comprehensive fictional university located in Bughaw City, Philippines, and the central landmark of _Rehiyon ng Detektib (Region 0: Detective Region)_. It holds the unique distinction as the world’s first institution leading globally in three simultaneous metrics: student population, campus size, and sphere of influence.
+PANGKALAHATANG IMPORMASYON AT KASAYSAYAN
 
-Founded on **June 4, 1999**, the university was named after Donward Cañete Gomez Bughaw, the first governor of the entire Rehiyon 0 province, who shared the same birth date in 1872 and grew up in the region. The university’s first pillar was built on land donated by the Bughaw family specifically for this educational project.
+Ang Bughaw University ay isang komprehensibo o pangkalahatang pamantasan na matatagpuan sa Bughaw City, Philippines. Ito ang pinakamalaking unibersidad sa buong mundo - ang kauna-unahang institusyon sa kasaysayan na nangunguna nang sabay sa tatlong sukatan: populasyon, laki ng campus, at lawak ng impluwensya. Tinatayang may humigit-kumulang 120,000 on-campus students at mahigit 3 milyong distance learners dito. Humigit-kumulang 22,000 guro at 170,000 kawani naman ang nagtatrabaho at nakatira rito, kasama ang kani-kanilang mga pamilya, na bumubuo ng isang self-sustaining academic metropolis sa loob ng District 1. Dahil nababakuran ang buong distrito ng pader, maituturing na itong "lungsod sa loob ng lungsod". May sariling hubs, malls, parke, at plasa - isang self-contained academic zone sa gitna ng mas malawak na Bughaw City.
+Taun-taon, humigit-kumulang 30,000 on-campus at 400,000 distance learners ang gumagraduate sa Bughaw University. Sa loob ng 27 taon mula noong itatag ito, mahigit 3.4 milyong alumni na ang naipadala nito sa buong bansa at mundo. Nagtatrabaho sila bilang mga doktor, mananaliksik, imbestigador at abogado sa mga ahensiyang tulad ng UNICEF, WHO, Pinkerton, Kroll Inc., Interpol, NSA, CIA, FBI, NCIS, UNODC, ICT, ICJ, at ICC.
 
-It began as a small specialized school with only 1,500 initial students, offering case‑focused programs including Law, Criminology, Forensic Science, Medical Technology, Psychology, Computer Science, IT, and Chemistry, with Bughaw Hall facing Founders Fountain as its original main building. Boosted by Bughaw City's District 2 security funding and District 3 research grants, it expanded rapidly: enrollment rose to 6,000 in 2000, 10,000 in 2002, 30,000 in 2003, and 60,000 by 2009.
+Ang Bughaw University ay itinatag noong Hunyo 4, 1999 at ipinangalan sa kauna-unahang gobernador ng buong lalawigan ng Rehiyon 0 na si Donward Cañete Gomez Bughaw, na ipinanganak sa kaparehong araw noong 1872 at lumaki rito. Itinayo ang kauna-unahang haligi ng eskwelahan sa lupain ng mga Bughaw na ginawang donasyon ng mga ito para sa layuning ito.
 
-A landmark **distance‑learning program** launched in 2019 during the national pandemic, drawing over 1 million learners in its first semester alone. By 2026, the university hosts approximately **120,000 on‑campus students and more than 3 million distance learners**, supported by 22,000 faculty members and 170,000 staff together with their families, forming a wall‑enclosed “city within a city” inside District 1, complete with dedicated malls, parks, plazas, and self‑contained community hubs.
+Ang unibersidad na ito ay nagsimula bilang isang maliit na institusyon na nag-alok ng mga programa at kurso na nakatuon sa paglutas ng mga kaso tulad ng Law, Criminology, Forensic Science, Medical Technology, Psychology, Computer Science, Information Technology, at Chemistry. Tinatayang 1,500 lang ang mag-aaral dito nang magsimula ito at ang Bughaw Hall, na nakaharap sa Founders Fountain, ang naging unang saksi ng mga naging unang produkto nito. Sa paglipas ng panahon, dulot na rin ng security funding ng District 2 at R&D grants ng District 3, lumubo ang budget nito. Nadagdagan din ang dati maliit na populasyon nito. Mula sa 1,500 noong 1999, naging 6,000 ito noong 2000 at 10,000 noong 2002.
 
-Every year roughly 30,000 on‑campus learners and 400,000 distance learners graduate. Across its 27‑year history, more than 3.4 million alumni have gone on to work for prominent global agencies including UNICEF, WHO, Interpol, FBI, ICC and ICJ as doctors, researchers, detectives and legal professionals.
+Kasabay ng pagdami ng kabuuang populasyon dito ay naging espesipiko at detalyado rin ang mga kurso. Halimbawa, sa halip na Criminology lang, nagkaroon na rin ng hiwalay na kurso ang bawat sangay nito. May mga hiwalay nang major sa Forensic Criminology, Police Science o Law Enforcement Administration, Criminalistics, Corrections and Penology, Criminal Law and Jurisprudence, Criminal Investigation and Detection, Criminal Sociology, Victimology, Industrial Security Management, Fire Technology and Arson Investigation, Criminal Psychology, Juvenile Delinquency and Juvenile Justice, Traffic Management and Accident Investigation, at Comparative Criminology. Kalaunan, nagbukas na rin ito para sa iba pang mga kurso tulad ng edukasyon, medisina, agrikultura, akwakultura, paggugubat, inhenyerya, at marami pang iba.
 
-Its curriculum has expanded dramatically alongside its population: criminology split into dedicated specialized majors such as Forensic Criminology, Criminalistics, Criminal Investigation, Victimology, and Fire & Arson Investigation, while new faculties for medicine, agriculture, aquaculture, forestry, engineering, education, and the arts were added over time.
+Noong 2003 ay umabot sa 30,000 ang kabuuang mag-aaral na pumasok dito mula sa iba't ibang dako ng Pilipinas na naging 60,000 pagsapit ng 2009. Dahil sa mabilis na paglobo ng populasyon nito, kinailangan ng karagdagang lupain na mapagtatayuan ng dagdag na imprastraktura at lokasyon na gagamitin dito. Dahil pag-aari lang din ng mga Bughaw ang tatlong-kapat ng mga lupain sa lungsod, hindi na nakapagtataka kung paano napabilis ng Bughaw University ang pagpapalawak ng nasasakupan at pagtatayo ng mga imprastraktura sa loob nito.
 
-> _"Knowledge begins at home, but it does not end there."_
+Noong 2019, pagpasok ng pandemya sa bansa, binuksan sa kauna-unahang pagkakataon ang "distance learning program". Tinatayang umaabot sa mahigit 1 milyon mag-aaral ang kumuha ng kurso sa unang semestre pa lang ng pagbubukas nito. Ang mga mag-aaral ay nagmula pa sa iba't ibang panig ng mundo. Pagsapit ng 2026, umaabot na nga sa humigit-kumulang 120,000 on campus at 3 milyon distance learners ang kabuuang populasyon nito.
 
-***
+MGA PASILIDAD AT ESTRUKTURA
 
-### 🏗️ Campus layout and key facilities
+Nahahati ang buong campus base sa mga kurso rito. Ang kanluran, kung nasaan ang Gate 1 at ang Founder's Fountain, ay ang Bughaw Hall na para sa mga kursong may kaugnayan sa batas, krimen, at medisina. Sa timog, kung nasaan ang Gate 6 at Gate 7, ang mga kursong maritime tulad ng aquaculture, marine transportation at marine engineering. Sa hilaga, kung nasaan ang Gate 2 at Gate 3, ang mga kursong siyensiya at matematika. Sa silangan, kung nasaan ang Gate 4 at Gate 5, ang mga kursong agrikultura at forestry. At sa pinakagitna naman, ang mga kursong education, communication at arts.
 
-The sprawling campus is divided by academic discipline:
+Ang Administration Building ay matatagpuan sa pagitan ng Bughaw Hall at sa Bughaw University Sports Complex. Sa ibaba rin ng gusaling ito, ay matatagpuan ang Bughaw University Student Council Office (BUSCO), na binubuo ng konseho ng mga mag-aaral na inihahalal taun-taon ng buong hanay ng mga estudyante at nagsisilbing pangunahing kinatawan ng mga interes ng mag-aaral. Nag-oorganisa ito ng mga programa at kampanya na tumutugon sa mga suliranin ng estudyante at mga pambansang isyu. Gaya ng UP Diliman, kilala rin ang Bughaw University sa tradisyon nito ng aktibismong pang-estudyante, kung saan aktibong nakikilahok ang mga estudyante sa mga kilusan tungkol sa patakaran sa edukasyon, karapatang pantao, at repormang pampulitika.
 
-* **West (Gate 1, Founders Fountain, Bughaw Hall):** Law, criminal justice, and medical‑related programs
-* **North (Gate 2‑3):** Science and mathematics
-* **East (Gate 4‑5):** Agriculture and forestry
-* **South (Gate 6‑7):** Maritime fields including aquaculture, marine transportation and marine engineering
-* **Central Zone:** Education, communication and arts programs
+Ang Sports Complex naman ay matatagpuan sa pagitan ng Admin Building at Bughaw University Tower. Binubuo ito ng iba't ibang sports venues tulad ng indoor gymnasium, isang 100 meter swimming pool, eight-court tennis area, track and field oval, baseball diamond, football pitch, archery at shooting range na ginagamit ng mga mag-aaral ng nasabing unibersidad at nirerentahan din paminsan-minsan ng mga taga-labas.
 
-Major landmarks:
+Ang Bughaw University Tower, na may 90 palapag na ginagawa ring observatory, ang nag-iisang gusali sa pinakagitna ng campus. Napapalibutan ang apat na bahagi ng gusaling ito ng apat ding naglalakihang TV screens na ginagamit araw-araw sa iba't ibang okasyon o pagdiriwang. Ginagamit din ang mga TV screens na ito tuwing flag raising ceremony, kung saan ipina-flash sa screen ang watawat ng Pilipinas, kaya kahit ang mga nasa pinakamalayong bahagi ng unibersidad ay nakikita pa rin ang anunsyo. Dito matatagpuan ang campus radio at TV station—ang DCGB at BUTV—na ginagamit ng mga Mass Com, Broadcast Journalism, at Multimedia Arts students. Narito rin ang opisina ng dalawang magkaribal na pahayagan ng unibersidad—ang Bughaw University Times (BUT) at ang Bughaw University Gazette (BUG). Bagama't magkaiba ng pangalan, pareho lang silang nakatuon sa pamamahayag at pagbabalita. Araw-araw silang naglalabas ng mga bagong updates at scoops na mababasa sa pisikal at elektronikong kopya.
 
-1. **Administration Building:** Houses the elected Bughaw University Student Council Office (BUSCO); the university is known for its long‑standing student‑activism tradition focused on education policy, human rights and political reform
-2. **Sports Complex:** Features an indoor gym, 100‑metre swimming pool, tennis courts, track oval, football pitch, and archery‑shooting range
-3. **90‑storey Bughaw University Tower:** Central campus landmark functioning as an observatory, home to campus broadcast stations DCGB & BUTV, and the rival student publications _Bughaw University Times (BUT)_ and _Bughaw University Gazette (BUG)_
-4. **Libraries & Museum System:** Six specialist libraries aligned to each campus zone, plus the ultra‑secure Bughaw University Museum behind the main tower housing millions of rare books, artworks, and artifacts, including the surviving Sibylline Book from Cumae—a mysterious relic that sparked a high‑profile failed theft attempt in 2011
+Ang Bughaw University ay may anim na library. Ang lima sa mga ito ay nakabase sa pagkakahati ng campus. Ang mga libro sa mga silid-aklatang ito ay angkop lamang sa mga kurso kung nasaan ito. Ang isa pang silid-aklatan, na kung tawagin ay Bughaw University Museum, ay matatagpuan naman sa likuran ng Bughaw University Tower. Mahigpit na ipinagbabawal ang paggalaw o paghawak man lang sa isa sa milyong koleksyon ng mga libro, larawan, paintings, rebulto at artifacts na nandito. Bantay-sarado ang bawat pintuan at pasilyo nito, araw at gabi.
 
-***
+Noong 2011, isang estudyante ang nagtangkang magnakaw ng orihinal na kopya ng Sibylline Book sa museong ito. Pero dahil na rin sa higpit ng seguridad, hindi nagtagumpay ang kanyang plano. Hinuli siya ng mga guwardiya, isinuko sa pulisya at ikinulong. Bagama't tatlong libro lang talaga ang alam ng karamihan na orihinal na kasamang nasunog sa anim iba pang libro noong 83 BC sa kapitolyo ng Roma noong digmaang sibil ni Sulla, may isa pa talagang natitirang Sibylline Book na iniingatan at itinatago si Sibyl ng Cumae. Kung paanong nakarating ito sa Bughaw City at University, iyon ang hindi maipaliwanag ng marami.
 
-## 👤 Notable characters at Bughaw University
+MGA SIKAT NA PERSONALIDAD
 
-> _"Every mind carries a story. Every story shapes the university."_
-
-### 🔍 Lead detectives
-
-* **Husto Permi**—Detective
-* **Susi Dayon**—Detective
-* **Puro Mali**—Detective
-
-### 🚔 Campus and district police force
-
-* **Chief Inspector Importante Maayo**—University/Campus and District Police Chief
-* **Senior Inspector Halos Seryoso**
-* **Inspector Pulos Binuang**
-
-### 🎓 Faculty and administration
-
-* **Mitch Amaste**—Mathematician
-* **Loñiel Quijano**—First President of Bughaw University
+Ilan sa mga sikat o tanyag na personalidad sa Bughaw University ay ang sumusunod:
+•Husto Permi. Detective.
+•Susi Dayon. Detective.
+•Puro Mali. Detective.
+•Chief Inspector Importante Maayo. University/Campus and District Police Chief
+•Senior Inspector Halos Seryoso
+•Inspector Pulos Binuang
+•Mitch Amaste, mathematician.
+•Loñiel Quijano, unang Presidente ng Bughaw University.
 
 ***
 
