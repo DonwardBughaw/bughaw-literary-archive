@@ -17,73 +17,24 @@ An alternate history region set in the eastern part of the Philippines—a place
 
 ***
 
-### 📐 Geography and location
+Ang Rehiyon 0 o Rehiyon ng Detektib ay isang makitid at matulis na rehiyon sa pinakasilangang bahagi ng Pilipinas. Sa kabuuang sukat na humigit-kumulang 130,000 kilometro kuwadrado, ito ang pinakamalaking rehiyon at pulo sa bansa. Kasinglaki nito ang bansang England. 
 
-Region 0 is a narrow, pointed region at the **easternmost part of the Philippines**. Covering approximately **130,000 square kilometers**, it is the country's largest region and island—roughly the size of England.
+Nakaupo ang kanluran at ilang bahagi ng timog at hilaga nito sa mismong Philippine Trench, kaharap ang Eastern Visayas, Caraga, at Davao Region. Nasa Pacific Ring of Fire din ito kaya nakararanas ng biglaang paglindol. Pero dahil sa estratehikong lokasyon, nagsilbi rin itong pananggalang ng mga kalapit na rehiyon laban sa kalamidad. Ang iba pang bahagi ay direktang nakalantad sa Karagatang Pasipiko kaya madalas itong tamaan ng malalakas na hangin at bagyo.
 
-* Its western, southern, and northern portions sit along the **Philippine Trench**, facing Eastern Visayas, Caraga, and Davao Region
-* Located within the **Pacific Ring of Fire**, making it prone to sudden earthquakes
-* Acts as a natural shield, protecting neighboring regions from typhoons and sea disturbances
-* Its eastern coast faces the **Pacific Ocean directly**, exposing it to strong winds and storms
+Binubuo ang rehiyon ng 54 na malalaking lungsod na ipinangalan sa mga tanyag na detective, ahente, at law enforcement officer sa buong mundo. Ang hilagang bahagi ay kinabibilangan ng Prendergast, Morton, Mehul, Peralta, Rush, Morse, Carisi, at Mason. Sa kanluran naman ay ang Bughaw, Lawliet, Hewitt, Dalgliesh, at Merrivale. Ang mga lugar ng Rockford, Grimoire, Marple, Dawson, Maigret, Strangeways, Holmes, Frost, Green, Appleby, Venn, Scarpetta, Edogawa, Barnaby, Mars, Jones, Gethryn, Devlin, Basil, at Sheringham ay nasa gitna kung saan nagtatagpo ang kultura, kalakalan, at imbestigasyon. Ang timog ay binubuo ng Murillo, Byron, Banks, at Wallace. Sa silangan at timog-silangan naman matatagpuan ang Wexford, Castellanos, Columbo, Satterthwaite, Fusco, Marlowe, Calder, Rossi, Bakshi, Hoffman, Lindsay, Wenjie, Murdoch, Poirot, Pembelton, Smith, at Campion. Ang mga lugar na ito ang nasa dulo ng pulo kung saan unang sumisikat ang araw.
 
-***
+Ang Rehiyon 0 ay may tropikal na klima na nag-iiba depende sa pwesto. Sa kanluran kung nasaan ang Bughaw, banayad at pantay ang ulan buong taon dahil sa rain shadow ng gitnang kabundukan. Sa gitna, malamig at foggy ang mga bundok ng Holmes at Frost na nagsisilbing watershed. Sa silangan kung nasaan ang Campion ay walang tagtuyot at sunod-sunod ang bagyo mula Nobyembre hanggang Enero. Dahil dito, ang Rehiyon 0 ay may lahat ng klima ng Pilipinas sa isang rehiyon lang.
 
-### 📍 Composition of Region 0
+Tinatayang 100 milyon ang populasyon ng rehiyon. Tatlong-kapat nito ay mga nakapagtapos ng kolehiyo at may maayos na trabaho bilang guro, pulis, sundalo, nars, doktor, abogado, at iba pa. Ngunit ang pangunahing kabuhayan sa mga mayayamang lungsod tulad ng Hewitt, Lawliet, Rockford, Peralta, Morton, at Bughaw ay imbestigasyon at pananaliksik. Sa mga baybayin at kabukiran naman, laganap ang pangingisda at pagsasaka.
+English at Tagalog ang mga opisyal na wika sa pamahalaan, kalakalan, at paaralan. Dahil nasa kanlurang baybayin ito kaharap ang Eastern  Visayas at Mindanao, laganap din ang Cebuano, Waray-Waray, at Ilonggo sa mga pamilihan, pantalan, at kabahayan.
 
-The region comprises **54 major cities**, named after renowned detectives, agents, and law enforcement officers from around the world:
+Noong 1521, tinangka ni Magellan na dumaong sa mga siyudad o lungsod ng Rehiyon 0, ngunit nabigo siya nang itaboy siya ng mga tao na naninirahan dito. Tuluyan itong nasakop ng mga Espanyol noong 1599, pagkatapos mamatay ni Datu Bughaw. Dahil dito, lumaganap ang kultura ng mga ito. Ang relihiyong Kristiyanismo ang naging pangunahing relihiyon sa buong rehiyon na sinundan ng Islam at iba pang paniniwala. Pero dahil na rin sa likas na pagiging mausisa at malikhain ng mga taong nakatira rito, mas nangingibabaw pa rin sa lahat ang "truth-seeking" anuman ang kanilang relihiyon o paniniwala.
 
-**🏔️ Northern District** Prendergast, Morton, Mehul, Peralta, Rush, Morse, Carisi, and Mason
+Taong 1899, pumutok ang labanang Filipino-Amerikano. Kasama ang buong rehiyon na nakipaglaban laban sa mga Amerikano. Pagkatapos mahuli ni Aguinaldo noong 1901, tuluyan na ring nasakop ang buong rehiyon ng mga Amerikano. Nang maganap ang unang provincial elections sa Pilipinas noong 1902, si Donward Cañete Gomez Bughaw ang nahalal bilang kauna-unahang gobernador ng buong lalawigan ng Rehiyon 0. Siya ay nagsilbi sa loob ng 39 taon. Pagsapit ng Ikalawang Digmaang Pandaigdig, labis na napinsala ang mga lungsod sa rehiyon. Dahil dito nagkukuta ang ibang sundalong Amerikano, naging target ito ng pambobomba ng Japan. Marami ang namatay kasama na si Gobernador Bughaw na tinangkang manlaban matapos mahuli ng mga sundalong Hapon. 
 
-**🌅 Western District** Bughaw, Lawliet, Hewitt, Dalgliesh, and Merrivale
+Pagbalik ni MacArthur sa Pilipinas, ay kumilos din ang mga taga Rehiyon 0. Sa tulong ng mga karagdagang armas mula sa mga Amerikano ay nakipaglaban ito hanggang sa taong 1945. Nakamit nito ang kalayaan, noong Hulyo 4, 1946, kung saan kasamang nilagdaan sa Treaty of General Relations between the Republic of the Philippines and the United States of America sa Maynila ang Bughaw Accord na naging legal na batayan hanggang sa ngayon sa pagsasarili ng buong rehiyon. Nakasaad sa kasunduang ito na ang Rehiyon 0 ay itinatag bilang isang Lalawigang Awtonomo. Ang buong teritoryo nito ay binubuo ng 54 na Lungsod na ang kapangyarihan ay nasa isang Gobernador at sa kanya-kanyang alkalde ng bawat Lungsod.
 
-**🏛️ Central District** — Where culture, trade, and investigation converge Rockford, Grimoire, Marple, Dawson, Maigret, Strangeways, Holmes, Frost, Green, Appleby, Venn, Scarpetta, Edogawa, Barnaby, Mars, Jones, Gethryn, Devlin, Basil, and Sheringham
-
-**🌴 Southern District** Murillo, Byron, Banks, and Wallace
-
-**🌊 Eastern & Southeasternmost District** — Where the sun first rises Wexford, Castellanos, Columbo, Satterthwaite, Fusco, Marlowe, Calder, Rossi, Bakshi, Hoffman, Lindsay, Wenjie, Murdoch, Poirot, Pembelton, Smith, and Campion
-
-***
-
-### 🌤️ Climate
-
-Region 0 features **all the climates of the Philippines within one region**:
-
-* **West (Bughaw area):** Gentle, evenly distributed rainfall year-round due to the rain shadow effect of the central mountains
-* **Central (Holmes & Frost mountains):** Cool and foggy; serves as the region's watershed
-* **East (Campion area):** No dry season; frequent typhoons from November through January
-
-***
-
-### 👥 Demographics and economy
-
-* **Population:** Approximately **100 million**
-* Three-fourths hold college degrees with stable professions: teachers, police, soldiers, nurses, doctors, lawyers, and more
-* **Primary industries:**
-  * 🕵️ Investigation and research — dominant in wealthy cities like Hewitt, Lawliet, Rockford, Peralta, Morton, and Bughaw
-  * 🐟 Fishing and agriculture — main livelihood in coastal and rural areas
-
-***
-
-### 🗣️ Languages
-
-* **English and Tagalog** — official languages in government, commerce, and education
-* **Cebuano, Waray-Waray, and Hiligaynon** — widely spoken in markets, ports, and households due to proximity to Eastern Visayas and Mindanao
-
-***
-
-### 📜 History
-
-**1521—Magellan's Arrival** Magellan attempted to land in Region 0's cities but was repelled by the local inhabitants.
-
-**1599—Spanish Colonization** Fully conquered by Spain following the death of **Datu Bughaw**. Spanish culture spread across the region. Christianity became the primary religion, followed by Islam and other beliefs. Above all, a culture of **"truth-seeking"** prevailed regardless of faith.
-
-**1899–1902—Philippine–American War** The entire region fought against American forces. After Aguinaldo's capture in 1901, the region fell under American rule. In the **first provincial elections of 1902**, **Donward Cañete Gomez Bughaw** was elected as the **first Governor of Region 0**, serving for **39 years**.
-
-**World War II (1941–1945)** Cities in the region suffered heavy damage. American troops were stationed here, making it a target of Japanese bombing raids. Many perished, including Governor Bughaw, who resisted capture by Japanese forces. Following MacArthur's return, Region 0 residents fought alongside Allied forces until liberation in **1945**.
-
-**July 4, 1946—Independence & Autonomy** Region 0 gained independence alongside the Philippines. The **Bughaw Accord** was signed in Manila alongside the Treaty of General Relations between the Philippines and the United States. This established Region 0 as an **Autonomous Province**, consisting of its 54 cities governed by a central Governor and individual city mayors.
-
-**Post-War—Naming the cities** Governor **Gwanda Wordhub** succeeded Governor Bughaw and played a key role in renaming the region's cities. Except for **Bughaw City**—retained in honor of Datu Bughaw and his legacy—all other places previously named after colors were renamed after famous detectives. Wordhub was a Filipino-American born in Bughaw City and educated in the United States under the **Pensionado Act**, graduating in law from **UC Berkeley**.
+Malaki ang naging papel ni Gwanda Wordhub, ang pumalit na gobernador kay Bughaw, sa pagpapangalan sa mga lugar dito. Maliban sa Lungsod ng Bughaw na pinanatili ang pangalan dahil sa naging ambag ng dating pinuno rito, ang ibang lugar na dating may pangalan ng mga kulay ay ginawang mga pangalan ng detective. Si Wordhub ay isang Pilipino-Amerikanong ipinanganak at lumaki sa lungsod ng Bughaw na kasamang ipinadala sa Estados Unidos noong 1903 upang mag-aral sa ilalim ng Pensionado Act. Nagtapos siya ng kursong abogasya sa UC Berkeley, kung saan din nag-aral ang mga sikat na Pensionado tulad nina Manuel L. Quezon, Claro M. Recto at Jorge Bacobo.
 
 ***
 
