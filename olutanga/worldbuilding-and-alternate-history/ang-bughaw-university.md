@@ -22,7 +22,7 @@ Noong 2003 ay umabot sa 30,000 ang kabuuang mag-aaral na pumasok dito mula sa ib
 
 Noong 2019, pagpasok ng pandemya sa bansa, binuksan sa kauna-unahang pagkakataon ang "distance learning program". Tinatayang umaabot sa mahigit 1 milyon mag-aaral ang kumuha ng kurso sa unang semestre pa lang ng pagbubukas nito. Ang mga mag-aaral ay nagmula pa sa iba't ibang panig ng mundo. Pagsapit ng 2026, umaabot na nga sa humigit-kumulang 120,000 on campus at 3 milyon distance learners ang kabuuang populasyon nito.
 
-MGA PASILIDAD AT ESTRUKTURA
+### MGA PASILIDAD AT ESTRUKTURA
 
 Nahahati ang buong campus base sa mga kurso rito. Ang kanluran, kung nasaan ang Gate 1 at ang Founder's Fountain, ay ang Bughaw Hall na para sa mga kursong may kaugnayan sa batas, krimen, at medisina. Sa timog, kung nasaan ang Gate 6 at Gate 7, ang mga kursong maritime tulad ng aquaculture, marine transportation at marine engineering. Sa hilaga, kung nasaan ang Gate 2 at Gate 3, ang mga kursong siyensiya at matematika. Sa silangan, kung nasaan ang Gate 4 at Gate 5, ang mga kursong agrikultura at forestry. At sa pinakagitna naman, ang mga kursong education, communication at arts.
 
