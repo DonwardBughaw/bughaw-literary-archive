@@ -12,5 +12,3 @@ An original Cebuano/Binisaya work of fiction written by Donward Bughaw, inspired
 ***
 
 🌐 **Permanent archive:** [Zenodo record](https://doi.org/10.5281/zenodo.23085470)
->
-> 
