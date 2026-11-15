@@ -54,7 +54,7 @@ Makikita rito, kung 'yong nanaisin!
 
 </div>
 
-<p style="text-align: center;">***</p>
+<p style="text-align: center;">
 
 ***
 
