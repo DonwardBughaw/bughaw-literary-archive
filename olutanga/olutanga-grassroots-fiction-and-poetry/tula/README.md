@@ -12,6 +12,16 @@ A lyrical tribute to the beauty, shores, people, and municipalities—Mabuhay, T
 
 <div style="text-align: center;">
 
+# Isla Olutanga
+
+**Ni Donward Caniete Bughaw**
+
+<br>
+
+</div>
+
+<div style="text-align: center;">
+
 Isla Olutanga ang kinalak'han ko,<br>
 Hindi man matunog, paka‑alamin mo;<br>
 Munisipalidad dito'y bumubuo:<br>
