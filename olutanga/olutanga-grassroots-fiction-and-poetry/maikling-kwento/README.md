@@ -10,7 +10,8 @@ Ang Mangunguling at Ang Isang Dram ng Ginto
 Ni Donward Caniete Bughaw 
 Isang kwentong pambata na orihinal na isinulat noong Nobyembre 19, 2020.
 
-Sa isang malayong pook ay may nakatirang mag-asawa. Payak ang pamumuhay nila. Naghaharden lamang ang babae habang nangunguling naman ang lalaki. 
+Sa isang malayong pook ay may nakatirang mag-asawa. Payak ang pamumuhay nila. Naghaharden lamang ang babae habang nangunguling naman ang lalaki.
+
 Isang araw, habang nangangahoy sa gubat ang lalaki, isang matandang babae ang nakita niyang naglalakad sa maliit na daan. Nang mapansin niyang nahihirapan itong dalhin ang mga tuyong sanga ng kahoy, nilapitan niya ito at tinulungang buhatin ang mga iyon.
 "Saan po ba ang bahay ninyo? Bakit kayo mag-isang pumunta sa gubat?" tanong ng lalaki nang sunod-sunod.
 "Diyan lang sa unahan," tugon ng matandang babae na mas lalo pang ipinagtaka ng lalaki. 
