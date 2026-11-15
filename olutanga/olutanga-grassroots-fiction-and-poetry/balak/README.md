@@ -11,6 +11,16 @@ A lyrical tribute to Guicam Bridge, the living community vein linking Olutanga I
 
 ***
 
+<div style="text-align: center;">
+
+# Ang Tulay sa Guicam
+
+**Ni Donward Caniete Bughaw**
+
+<br>
+
+</div>
+
 Sa tabok sa tubig, nipis ug putli,\
 Ang Guicam nagbukad, maisug ug lig-on kaayo.\
 Semento nga nag-antus sa kusog nga balod,\
