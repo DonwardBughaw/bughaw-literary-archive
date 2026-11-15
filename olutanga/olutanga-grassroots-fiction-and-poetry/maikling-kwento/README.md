@@ -4,6 +4,8 @@
 
 A magical Philippine forest folktale for young readers about a humble charcoal‑maker who receives a miraculous reward for his kindness, only to lose it when greed makes him disregard the old woman’s warning—teaching lessons of gratitude, obedience, and contentment.
 
+> _Nature rewards respect. Greed turns gold back to dust. A promise kept is worth more than treasure._
+
 ***
 
 <div style="text-align: center;">
@@ -124,4 +126,4 @@ Habol ang paghinga, mabilis niyang pinuntahan at hinanap ang matandang babae sa 
 
 ***
 
-> _The smallest acts can shine like gold._ 🌐 **Permanent archive:** [Zenodo record](https://doi.org/10.5281/zenodo.21288091) [Figshare record](https://doi.org/10.6084/m9.figshare.32953973)
+🌐 **Permanent archive:** [Zenodo record](https://doi.org/10.5281/zenodo.21288091) [Figshare record](https://doi.org/10.6084/m9.figshare.32953973)
